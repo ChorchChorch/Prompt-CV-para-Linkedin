@@ -162,4 +162,4 @@ Crear un perfil optimizado para:
 * maximización de oportunidades laborales
 
 
-e te deja el perfil listo para aplicar a cualquier búsqueda IT senior.
+Deja el perfil listo para aplicar a cualquier búsqueda IT senior.
