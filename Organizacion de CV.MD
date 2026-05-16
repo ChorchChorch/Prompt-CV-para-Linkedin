@@ -80,6 +80,7 @@ Las keywords ATS deben integrarse naturalmente en el texto:
   * proyectos
   * costos
 
+IMPORTANTE: debe poder leerse en 10 a 15 segundos por un humano, evita altas densidadesa de palabras y facilita el escaneo visual
 ---
 
 ## Estructura obligatoria del ABOUT
@@ -128,6 +129,10 @@ Las keywords ATS deben integrarse naturalmente en el texto:
 * equilibrada
 * senior / ejecutiva
 * orientada a búsqueda laboral (reclutadores)
+El headline ideal: 
+- no explica todo
+- no lista todo tu stack
+- prioriza “cómo te buscan”, no “todo lo que haces”
 
 ## 4. TOP 5 SKILLS
 
