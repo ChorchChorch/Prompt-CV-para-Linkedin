@@ -1,6 +1,5 @@
-
-
-# PROMPT MAESTRO (LinkedIn OPTIMIZADO + ATS + IT SENIOR)
+# ALGORITMO 1
+## PROMPT MAESTRO (LinkedIn OPTIMIZADO + ATS + perfil IT )
 
 Actuá como un especialista senior en optimización de perfiles de LinkedIn, ATS y posicionamiento profesional para roles IT de nivel medio-senior y senior (especialmente IT Operations Manager, Infrastructure Lead, IT Manager).
 
@@ -50,14 +49,7 @@ Reescribí todo el perfil aplicando estas reglas:
 
 * tono ejecutivo, no operativo
 * evitar descripciones tipo “job description”
-* usar verbos de decisión:
-
-  * dirigí
-  * goberné
-  * prioricé
-  * optimicé
-  * aseguré
-  * definí
+* usar verbos de decisión: Ejemplo dirigí , goberné , prioricé , optimicé , aseguré , definí
 * eliminar redundancias
 * corregir ortografía y gramática sin excepción
 * frases cortas, claras y escaneables
@@ -85,29 +77,12 @@ IMPORTANTE: debe poder leerse en 10 a 15 segundos por un humano, evita altas den
 
 ## Estructura obligatoria del ABOUT
 
-1. Párrafo 1:
-
-   * rol + seniority + contexto IT Operations Manager
-
-2. Párrafo 2:
-
-   * infraestructura + operación + continuidad + alcance
-
-3. Párrafo 3:
-
-   * logros cuantificables (costos, eficiencia, impacto)
-
-4. Párrafo 4:
-
-   * proyectos estratégicos (ERP, redes, sistemas, etc.)
-
-5. Párrafo 5:
-
-   * governance (comités, proveedores, decisiones, inversiones)
-
-6. Cierre:
-
-   * posicionamiento profesional como IT Operations Manager
+1. Párrafo 1:  rol + seniority + contexto IT Operations Manager
+2. Párrafo 2:  infraestructura + operación + continuidad + alcance
+3. Párrafo 3:  logros cuantificables (costos, eficiencia, impacto)
+4. Párrafo 4:  proyectos estratégicos (ERP, redes, sistemas, etc.)
+5. Párrafo 5:  governance (comités, proveedores, decisiones, inversiones)
+6. Cierre:     posicionamiento profesional como IT Operations Manager
 
 ---
 
@@ -171,7 +146,9 @@ Deja el perfil listo para aplicar a cualquier búsqueda IT senior.
 
 ---
 ---
----
+# ALGORITMO 2
+## PROMPT MAESTRO (LinkedIn OPTIMIZADO + ATS + perfil IT )
+
 Actuá como un Headhunter Internacional, Especialista en SEO de LinkedIn y Consultor de Outplacement de nivel Senior. Tu especialidad es transformar perfiles técnicos u operativos de LinkedIn en perfiles ejecutivos de alto impacto. 
 
 OBJETIVO: Maximizar la visibilidad en búsquedas de recruiters (LinkedIn Recruiter + ATS) y asegurar entrevistas de nivel Mid-Senior a Executive.
