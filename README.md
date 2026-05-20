@@ -14,4 +14,9 @@ Es por ello que guardo y comparto el prompt ORGANIZACION DE CV para iterar y mej
 
 Por supuesto, no existe el prompt perfecto ni una plantilla fija que sirva para todos los perfiles por igual. Para garantizar la personalización, la estrategia ideal es iterar con los dos promt, permitiendo al profesional seleccionar fragmentos y fusionar los componentes que mejor reflejen su identidad y resuenen con su estilo personal dando un CV unico.
 
+### Aqui podras ver las estadisticas de tu perfil 
+Debes estar logueaado 
+
+https://www.linkedin.com/analytics/creator/content/
+
 Saludos.
