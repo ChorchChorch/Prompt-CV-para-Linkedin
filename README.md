@@ -4,7 +4,7 @@
 
 Considero que los CV en LinkedIn deberían adoptar un enfoque IA-first; deben ser claros y legibles para humanos, pero fuertemente optimizados para su interpretación, clasificación y ranking por algoritmos.
 
-La IA opera sin contexto propio; el contexto es lo que ilumina el camino, por lo tanto es fundamental. Esto entra en tensión con la forma tradicional de redacción orientada a humanos, donde el rol, la experiencia y el mindset se infieren de manera más implícita.
+La IA opera sin contexto propio; el contexto es lo que ilumina el camino, por lo tanto es fundamental. Esto entra en tensión con la forma tradicional de redacción orientada a humanos, donde el rol, la experiencia y el mindset se infieren de manera más implícita, mas humana.
 
 La IA requiere suficiente contexto para tomar decisiones adecuadas, y una estructura secuencial con few-shot; examples puede facilitar la inferencia de rol, habilidades y experiencia. La IA no deduce: procesa.
 
