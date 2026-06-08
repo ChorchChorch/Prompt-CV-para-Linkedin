@@ -7,7 +7,7 @@ Para hacerlo, debes ir a la sección “Editar perfil público y URL” dentro d
 
 
 ## Como encontrar palabras clave
-Crea la descripcion del rol, incluyendo
+Crea la descripcion del rol, incluyendo:
 - Descripción
 - Responsablidad
 - Requisitos
@@ -16,3 +16,4 @@ Crea la descripcion del rol, incluyendo
 
 **https://www.jobed.ai/es**
 
+## Busquedas reales de google para obtener palabras clave reales
