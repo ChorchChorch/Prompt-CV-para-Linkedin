@@ -5,6 +5,10 @@ Para hacerlo, debes ir a la sección “Editar perfil público y URL” dentro d
 
 **https://www.linkedin.com/in/tu-nombre-apellido**
 
+## Ver tu ranking segun Linkedin y cosas a mejorar
+https://business.linkedin.com/sell/resources/SSI
+
+
 
 ## Como encontrar palabras clave
 Crea la descripcion del rol, incluyendo:
