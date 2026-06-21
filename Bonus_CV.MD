@@ -8,7 +8,7 @@ Para hacerlo, debes ir a la sección “Editar perfil público y URL” dentro d
 ## Ver tu ranking segun Linkedin y cosas a mejorar
 https://business.linkedin.com/sell/resources/SSI
 
-
+Creo que debes tener que pedirlo a alguien que tenga cuenta paga para generar el informe
 
 ## Como encontrar palabras clave
 Crea la descripcion del rol, incluyendo:
