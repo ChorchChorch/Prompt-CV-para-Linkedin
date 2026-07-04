@@ -20,6 +20,49 @@ Crea la descripcion del rol, incluyendo:
 
 **https://www.jobed.ai/es**
 
+Conectar
+🚨 EL TRUCO MÁS SUBESTIMADO DE LINKEDIN 🚨
+(y que casi nadie usa…)
+
+Si estás buscando trabajo y solo mirás la pestaña “Empleos”, estás viendo menos del 50% de las oportunidades reales.
+Sí, leíste bien: menos de la mitad. 👀
+
+Te muestro cómo acceder a las vacantes ocultas que LinkedIn NO te muestra 👇
+
+🔎 PASO 1 — Escribí ESTO en la barra de búsqueda:
+"Estamos contratando" OR "Buscamos" OR "Vacante" OR "Oportunidad laboral"
+
+Esto desbloquea publicaciones que NO aparecen en la sección de Empleos.
+
+🔎 PASO 2 — Aplicá estos filtros:
+✅ Publicaciones → Última semana
+✅ Ubicación (país o ciudad)
+✅ Sector o palabra clave (ej: “QA”, “Developer”, “Proyecto”, “Analista”)
+
+🔥 ¿Por qué funciona tan bien?
+
+1️⃣ Las personas publican antes que las empresas.
+Team leads y reclutadores suelen anunciar la vacante en su propio perfil antes de crear el aviso oficial.
+2️⃣ Accedés a oportunidades “recién salidas del horno”.
+Es el momento donde casi nadie aplicó todavía.
+3️⃣ Podés conectar directo con quien decide.
+Un comentario bien colocado te da visibilidad inmediata.
+4️⃣ Descubrís empresas que no conocías.
+Muchísimas pymes nunca publican en portales tradicionales.
+
+💬 Mensaje listo para copiar/pegar:
+
+“Hola [nombre], vi tu post sobre la búsqueda en [empresa].
+Me interesa mucho la oportunidad. ¿Podrías contarme un poco más?”
+
+(Te sorprendería cuántos responden.)
+
+💡 BONUS PRO TIP
+
+Guardá la búsqueda.
+LinkedIn te avisará cada vez que aparezcan nuevas publicaciones con esas palabras clave.
+Te convertís en el/la primero/a en verlas. ⚡
+
 ## Busquedas reales de google para obtener palabras clave reales
 
 ## links, llevan directamente a información clave en Linkedin
