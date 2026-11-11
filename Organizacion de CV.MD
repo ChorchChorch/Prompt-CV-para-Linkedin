@@ -21,13 +21,14 @@ Antes de redactar cualquier texto:
 
 * Infraestructura IT
 * Operaciones IT
-* ERP / Sistemas empresariales
+* ERP / CRM / Sistemas empresariales
 * Bases de datos (SQL Server / DBA si aplica)
 * IT Governance / Management
 * Vendor / Procurement Management
 * Cost Optimization / Budget Control
 * Continuidad operativa / Business Continuity
 * Proyectos / Implementaciones / Migraciones
+* Nombres de tecnologias, herramientas o lenguajes de programación y Frameworks
 
 3. Seleccioná SOLO entre 8 y 12 keywords máximas:
 
@@ -49,10 +50,10 @@ Reescribí todo el perfil aplicando estas reglas:
 
 * tono ejecutivo, no operativo
 * evitar descripciones tipo “job description”
-* usar verbos de decisión: Ejemplo dirigí , goberné , prioricé , optimicé , aseguré , definí
+* usar verbos de decisión: Ejemplo dirigí , goberné , prioricé , optimicé , aseguré , definí, resolí
 * eliminar redundancias
-* corregir ortografía y gramática sin excepción
-* frases cortas, claras y escaneables
+* corregir ortografía y gramática
+* frases cortas, claras y escaneables por IA de modelos basicos
 * NO usar hashtags
 * NO usar listas genéricas sin valor
 
@@ -62,8 +63,7 @@ Reescribí todo el perfil aplicando estas reglas:
 
 Las keywords ATS deben integrarse naturalmente en el texto:
 
-* no como lista
-* no como hashtags
+* no como lista ni hashtags
 * distribuidas en contexto real:
 
   * operaciones
@@ -77,12 +77,12 @@ IMPORTANTE: debe poder leerse en 10 a 15 segundos por un humano, evita altas den
 
 ## Estructura obligatoria del ABOUT
 
-1. Párrafo 1:  rol + seniority + contexto IT Operations Manager
+1. Párrafo 1:  rol + seniority + contexto del cargo actual
 2. Párrafo 2:  infraestructura + operación + continuidad + alcance
 3. Párrafo 3:  logros cuantificables (costos, eficiencia, impacto)
 4. Párrafo 4:  proyectos estratégicos (ERP, redes, sistemas, etc.)
 5. Párrafo 5:  governance (comités, proveedores, decisiones, inversiones)
-6. Cierre:     posicionamiento profesional como IT Operations Manager
+6. Cierre:     posicionamiento profesional del actual cargo / rol 
 
 ---
 
@@ -91,13 +91,13 @@ IMPORTANTE: debe poder leerse en 10 a 15 segundos por un humano, evita altas den
 ## 1. Keywords ATS seleccionadas
 
 * con categorías claras
-* máximo 8–12
+* máximo 8–12 palabras
 
 ## 2. ABOUT optimizado
 
 * listo para LinkedIn
 * estilo ejecutivo
-* con impacto y métricas
+* que genere impacto 
 
 ## 3. HEADLINE (3 versiones)
 
@@ -121,10 +121,10 @@ El headline ideal:
 
 IT Operations Manager con experiencia en:
 
-* infraestructura IT on-premise
 * ERP (Softland u otros)
 * SQL Server / bases de datos
 * continuidad operativa
+* infraestructura IT on-premise
 * vendor management
 * control de costos
 * operación de entornos críticos
